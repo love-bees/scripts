@@ -1,6 +1,6 @@
-# Linux shell tutorial scripts
+# Linux Shell Tutorial Scripts
 
-For detailed info:
+For detailed info and step by step instructions:
 
 * [How to Comment in Bash](https://phoenixnap.com/kb/bash-comment)
 * [Bash Function & How to Use It {Variables, Arguments, Return}](https://phoenixnap.com/kb/bash-function) <br>
