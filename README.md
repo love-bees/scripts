@@ -7,3 +7,4 @@ For detailed info and step by step instructions:
 * [Bash if elif else Statement: A Comprehensive Tutorial](https://phoenixnap.com/kb/bash-if-statement) <br>
 * [Bash Script for Loop Explained with Examples]() <br>
 * [Bash wait Command with Examples](https://phoenixnap.com/kb/bash-wait-command) <br>
+* Bash continue: How to Resume a Loop (WIP)
