@@ -5,7 +5,7 @@ do
 	if [[ $i == '2' ]]
 	then
 		echo "Number $i!"
-		continue 5
+		break
 	fi
 	echo "$i"
 done

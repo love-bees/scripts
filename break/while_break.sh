@@ -4,11 +4,11 @@ i=0
 
 while [[ $i -lt 11 ]] 
 do
-	if [[ "$i" == '9' ]]
+	if [[ "$i" == '2' ]]
 	then
 		echo "Number $i!"
 		((i++))
-		continue
+		break
 	fi
 	echo $i
 	((i++))
