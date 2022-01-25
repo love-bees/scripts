@@ -7,7 +7,6 @@ do
 	if [[ "$i" == '2' ]]
 	then
 		echo "Number $i!"
-		((i++))
 		break
 	fi
 	echo $i

@@ -12,4 +12,5 @@ do
 		echo "$i =/= $j"
 	done
 done
+
 echo "Done!"
