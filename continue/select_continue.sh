@@ -11,5 +11,3 @@ do
 		continue
 	fi
 done
-
-

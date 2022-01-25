@@ -2,10 +2,10 @@
 
 for i in {1..10}
 do
-	if [[ $i == '9'  ]]
+	if [[ $i == '2' ]]
 	then
 		echo "Number $i!"
-		continue
+		continue 5
 	fi
 	echo "$i"
 done
