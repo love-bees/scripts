@@ -9,4 +9,4 @@ For detailed info and step by step instructions:
 * [Bash Script for Loop Explained with Examples](https://phoenixnap.com/kb/bash-for-loop) <br>
 * [Bash wait Command with Examples](https://phoenixnap.com/kb/bash-wait-command) <br>
 * [Bash continue: How to Resume a Loop](https://phoenixnap.com/kb/bash-continue)<br>
-* Bash break: How to Exit from a Loop (in progress)
+* [Bash break: How to Exit from a Loop](https://phoenixnap.com/kb/bash-break)<br>
